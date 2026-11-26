@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="assets/logo.png" alt="LibraGuard logo" width="160">
+</p>
+
+<h1 align="center">LibraGuard</h1>
+
+<p align="center">
+  An IoT-integrated smart library management system.<br>
+  RFID access control, noise monitoring, and book borrowing in one platform.
+</p>
+
 # LibraGuard
 
 An IoT-integrated smart library management system that brings RFID access control, noise and crowd monitoring, book borrowing, and computer reservations into one platform. Built as a capstone project for BSIT at UEP Binalonan.
